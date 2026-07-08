@@ -7,7 +7,7 @@ DHT11 sensöründen okunan sıcaklık ve nem verilerini 16x2 LCD ekranda göster
 * Arduino Uno
 * DHT11 (sıcaklık ve nem sensörü)
 * 16x2 LCD Ekran
-* 10K Potansiyometre (LCD ekran parlaklık ayarı için)
+* 10K Potansiyometre (lcd ekran parlaklık ayarı için)
 * 1x330R Direnç
 
 
