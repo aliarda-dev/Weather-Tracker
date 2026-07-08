@@ -1,6 +1,6 @@
 ***Weather Tracker***
 
-DHT11 sensöründen okunan sıcaklık ve nem verilerini 16x2 LCD ekranda gösteren basit bir hava durumu takip sistemi geliştirdim. Amaç sensörden veri okuyup LCD üzerinde düzenli şekilde göstermeyi öğrenmekti.
+DHT11 sensöründen okunan sıcaklık ve nem verilerini 16x2 LCD ekranda gösteren basit bir hava durumu takip sistemi geliştirdim. Amacım sensörden veri okuyup LCD ekran üzerinde gösterebilmekti.
 
 ***Donanım***
 
