@@ -1,6 +1,6 @@
 ***Weather Tracker***
 
-Bu proje sıcaklık sensöründen alınan verileri LCD ekran üzerinde gösteren basit bir gömülü sistem uygulamasıdır.
+DHT11 sensöründen okunan sıcaklık ve nem verilerini 16x2 LCD ekranda gösteren basit bir hava durumu takip sistemi geliştirdim. Amaç sensörden veri okuyup LCD üzerinde düzenli şekilde göstermeyi öğrenmekti.
 
 ***Donanım***
 
@@ -8,6 +8,7 @@ Bu proje sıcaklık sensöründen alınan verileri LCD ekran üzerinde gösteren
 * DHT11 (sıcaklık ve nem sensörü)
 * 16x2 LCD Ekran
 * 10K Potansiyometre (LCD ekran parlaklık ayarı için)
+* 1x330R Direnç
 
 
 ***Nasıl Çalışır?***
