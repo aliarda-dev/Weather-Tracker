@@ -34,4 +34,5 @@ eklenecek
 
 📷 Proje PCB Medyası
 
-eklenecek
+<img width="1636" height="2048" alt="weather-tracker" src="https://github.com/user-attachments/assets/128106d6-833c-465a-9003-b717158ecdbf" />
+
