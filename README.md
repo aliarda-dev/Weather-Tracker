@@ -27,7 +27,7 @@ LCD ekran clear() ile silinince ekranda titreme yapıyordu bende sadece değişk
 * ESP ile uzaktan takip
 * Saatlik veya günlük olarak alınan sıcaklık dataları tutulabilir
 
-  ***Not***
+***Not***
 
   Projenin pcb dosyaları yüklendi.Bu projede kicadde footprintinde 3D step dosyası olmayan malzemelere internetten 3D model yüklemeyi öğrendim.
 
