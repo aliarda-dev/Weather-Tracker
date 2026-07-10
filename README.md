@@ -27,12 +27,20 @@ LCD ekran clear() ile silinince ekranda titreme yapıyordu bende sadece değişk
 * ESP ile uzaktan takip
 * Saatlik veya günlük olarak alınan sıcaklık dataları tutulabilir
 
+  ***Not***
+
+  Projenin pcb dosyaları yüklendi.Bu projede kicadde footprintinde 3D step dosyası olmayan malzemelere internetten 3D model yüklemeyi öğrendim.
+
 
 🎥 Proje Demo
 
-eklenecek
+<img width="1636" height="2048" alt="weather-tracker" src="https://github.com/user-attachments/assets/31364874-4ee3-4ffe-ac7d-720d348dc37c" />
+
 
 📷 Proje PCB Medyası
 
-<img width="1636" height="2048" alt="weather-tracker" src="https://github.com/user-attachments/assets/128106d6-833c-465a-9003-b717158ecdbf" />
+<img width="1008" height="840" alt="weather-tracker4" src="https://github.com/user-attachments/assets/3ec902d4-0ad8-4f5d-b63b-65516123d35a" />
+
+
+
 
