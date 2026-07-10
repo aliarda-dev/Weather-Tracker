@@ -29,7 +29,7 @@ LCD ekran clear() ile silinince ekranda titreme yapıyordu bende sadece değişk
 
 ***Not***
 
-  Projenin pcb dosyaları yüklendi.Bu projede kicadde footprintinde 3D step dosyası olmayan malzemelere internetten 3D model yüklemeyi öğrendim.
+Projenin pcb dosyaları yüklendi. Bu projede Kicadde footprintinde 3D step dosyası olmayan malzemelere internetten 3D model yüklemeyi öğrendim.
 
 
 🎥 Proje Demo
